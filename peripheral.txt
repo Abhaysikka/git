@@ -1,1 +1,3 @@
 peripheral
+keyboard
+mouse
