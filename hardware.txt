@@ -1,2 +1,3 @@
 hardware
 ryzen 5 2400g
+vega 11
